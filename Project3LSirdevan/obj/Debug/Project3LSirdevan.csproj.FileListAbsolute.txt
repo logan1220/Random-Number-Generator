@@ -1,0 +1,10 @@
+c:\users\n00895918\documents\visual studio 2015\Projects\Project3LSirdevan\Project3LSirdevan\bin\Debug\Project3LSirdevan.exe.config
+C:\Users\n00895918\Desktop\Project3LSirdevan\Project3LSirdevan\bin\Debug\Project3LSirdevan.exe.config
+C:\Users\n00895918\Desktop\Project3LSirdevan\Project3LSirdevan\obj\Debug\Project3LSirdevan.csprojResolveAssemblyReference.cache
+C:\Users\n00895918\Desktop\Project3LSirdevan\Project3LSirdevan\obj\Debug\Project3LSirdevan.Form1.resources
+C:\Users\n00895918\Desktop\Project3LSirdevan\Project3LSirdevan\obj\Debug\Project3LSirdevan.Properties.Resources.resources
+C:\Users\n00895918\Desktop\Project3LSirdevan\Project3LSirdevan\obj\Debug\Project3LSirdevan.csproj.GenerateResource.Cache
+C:\Users\n00895918\Desktop\Project3LSirdevan\Project3LSirdevan\bin\Debug\Project3LSirdevan.exe
+C:\Users\n00895918\Desktop\Project3LSirdevan\Project3LSirdevan\bin\Debug\Project3LSirdevan.pdb
+C:\Users\n00895918\Desktop\Project3LSirdevan\Project3LSirdevan\obj\Debug\Project3LSirdevan.exe
+C:\Users\n00895918\Desktop\Project3LSirdevan\Project3LSirdevan\obj\Debug\Project3LSirdevan.pdb
